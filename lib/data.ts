@@ -66,7 +66,7 @@ export const experiencesData = [
     date: '2020-2021',
   },
   {
-    title: 'Carrer Break',
+    title: 'Career Break',
     location: 'Hyderabad, IN',
     description:
       'Focused and developed my skills to step into tech industry as a full stack web developer',
